@@ -1,0 +1,6 @@
+- url: /$
+  static_files: static/test.html
+  upload: static/test.html
+
+- url: /
+  static_dir: static
